@@ -1,7 +1,7 @@
 This is task 8 project
 
 
-contains 2 filels 
+contains 2 files 
 
 
 one is the pdf of the screenshot of the sales dashboard
